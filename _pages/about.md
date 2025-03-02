@@ -23,7 +23,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -34,7 +34,9 @@ Before that, I received my B.S. in Electronic Information Engineering *with hono
 
 Currently, I am a research intern at [Future Intelligence laB](https://fi.ee.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Yong Li](https://scholar.google.com/citations?user=kmgzPeQAAAAJ&hl=en&oi=ao) and Dr. [Huandong Wang](https://scholar.google.com/citations?user=PNbioq0AAAAJ&hl=en&oi=ao).
 
-*I am actively seeking a **2026 fall Ph.D.** opportunity.*
+**Research:** My research focuses on AI-driven modeling and prediction of complex systems. I am particularly dedicated to understanding and modeling key phenomena within complex systems, including fast-slow separation, network dimensionality reduction, energy landscapes, and multiscale structures. Recently, my interests have centered on the application of generative AI, e.g. diffusion model, in the prediction of complex systems.
+
+*I am actively seeking a **2026 fall Ph.D.** opportunity. Contact me via email (lirk612@gmail.com) if you’re interested in my research.*
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
