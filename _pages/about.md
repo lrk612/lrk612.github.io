@@ -34,7 +34,7 @@ Before that, I received my B.S. in Electronic Information Engineering *with hono
 
 Currently, I am a research intern at [Future Intelligence laB](https://fi.ee.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Yong Li](https://scholar.google.com/citations?user=kmgzPeQAAAAJ&hl=en&oi=ao) and Dr. [Huandong Wang](https://scholar.google.com/citations?user=PNbioq0AAAAJ&hl=en&oi=ao).
 
-I am actively seeking a Ph.D. opportunity for 2026 Fall.
+*I am actively seeking a **2026 fall Ph.D.** opportunity.*
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
