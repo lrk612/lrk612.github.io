@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: (*) denotes equal contribution. For a complete list of publications, please visit my Google Scholar page.
-nav: false
+nav: true
 nav_order: 2
 ---
 
