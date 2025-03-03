@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎤 KDD 2024 Offline <span style="color: red;">Oral Presentation</span> @ Barcelona
+🎤 KDD 2024 Offline **Oral Presentation** @Barcelona
