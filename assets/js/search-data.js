@@ -56,10 +56,10 @@ ninja.data = [{
           title: '🎓 Graduated with honors from HUST (GPA: 3.97/4.00)',
           description: "",
           section: "News",},{id: "news-kdd-2023-online-oral-presentation-los-angeles",
-          title: '🌐 KDD 2023 Online Oral Presentation @ Los Angeles',
+          title: '🌐 KDD 2023 Online Oral Presentation @Los Angeles',
           description: "",
           section: "News",},{id: "news-kdd-2024-offline-oral-presentation-barcelona",
-          title: '🎤 KDD 2024 Offline Oral Presentation @ Barcelona',
+          title: '🎤 KDD 2024 Offline Oral Presentation @Barcelona',
           description: "",
           section: "News",},{
         id: 'social-dblp',
