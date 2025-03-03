@@ -36,7 +36,7 @@ Currently, I am a research intern at [Future Intelligence laB](https://fi.ee.tsi
 
 **Research:** My research focuses on AI-driven modeling of complex systems. I am particularly dedicated to understanding and predicting key phenomena within complex systems, including [fast-slow separation](https://dl.acm.org/doi/abs/10.1145/3580305.3599858), [network dimensionality reduction](https://dl.acm.org/doi/abs/10.1145/3637528.3671968), [energy landscapes](https://openreview.net/forum?id=PxRATSTDlS), and multiscale structures (under review). Recently, my interests have centered on the application of generative AI, e.g. diffusion model, in the prediction of complex systems.
 
-*I am actively seeking a **2026 fall Ph.D.** opportunity. Contact me via email (lirk612@gmail.com) if you’re interested in my research.*
+📢 <span style="color: red;">I am actively seeking a <strong>2026 Fall Ph.D.</strong> opportunity.</span> Contact me at lirk612@gmail.com if you’re interested in my research.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
