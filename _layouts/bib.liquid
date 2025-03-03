@@ -16,8 +16,11 @@
             {% endif -%}
           >
             {% if site.data.venues[entry.abbr].url %}
-              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+              <a href="{{ site.data.venues[entry.abbr].url }}">
+              <img src="{{ site.data.venues[entry.abbr].icon }}" alt="{{ entry.abbr }}" style="width:20px;height:20px;">
+              {{ entry.abbr }}</a>
             {% else %}
+              <img src="{{ site.data.venues[entry.abbr].icon }}" alt="{{ entry.abbr }}" style="width:20px;height:20px;">
               <div>{{- entry.abbr -}}</div>
             {% endif %}
           </abbr>

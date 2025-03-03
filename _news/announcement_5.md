@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-KDD 2023 Online Oral Presentation @ Los Angeles
+🌐 KDD 2023 Online <span style="color: red;">Oral Presentation</span> @ Los Angeles
