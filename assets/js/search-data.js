@@ -60,7 +60,7 @@ ninja.data = [{
           title: '🏅 National Scholarship (Top 1%)',
           description: "",
           section: "News",},{id: "news-graduated-with-honors-from-hust-gpa-3-97-4-00",
-          title: '🎓 Graduated with honors from HUST, GPA: 3.97/4.00',
+          title: '🎓 Graduated with honors from HUST (GPA: 3.97/4.00)',
           description: "",
           section: "News",},{id: "news-kdd-2023-online-oral-presentation-los-angeles",
           title: '🌐 KDD 2023 Online Oral Presentation @ Los Angeles',
