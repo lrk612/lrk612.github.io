@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🌐 KDD 2023 Online **Oral Presentation** @Los Angeles
+🌐 [KDD 2023](https://dl.acm.org/doi/abs/10.1145/3580305.3599858) Online **Oral Presentation** @Los Angeles
