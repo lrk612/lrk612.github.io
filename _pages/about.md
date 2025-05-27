@@ -34,10 +34,11 @@ Before that, I received my B.S. in Electronic Information Engineering *with hono
 
 Currently, I am a research intern at [Future Intelligence laB](https://fi.ee.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Yong Li](https://scholar.google.com/citations?user=kmgzPeQAAAAJ&hl=en&oi=ao) and Dr. [Huandong Wang](https://scholar.google.com/citations?user=PNbioq0AAAAJ&hl=en&oi=ao).
 
-**Research:** My research focuses on physics-inspired deep learning. I am dedicated to integrating physical knowledge into representation learning to understand complex physical phenomena, including [invariant variable representation](https://dl.acm.org/doi/abs/10.1145/3580305.3599858), [network dimensionality reduction](https://dl.acm.org/doi/abs/10.1145/3637528.3671968), [energy landscapes](https://openreview.net/forum?id=PxRATSTDlS), and multiscale structures (under review). 
-Recently, my interests have centered on improving the accuracy and generalization of complex system predictions through generative AI, such as diffusion models.
+**Research:** My research focuses on **Scientific Machine Learning (SciML)**. I am dedicated to integrating physical knowledge into representation learning to understand complex physical phenomena, including [invariant variable representation](https://dl.acm.org/doi/abs/10.1145/3580305.3599858), [network dimensionality reduction](https://dl.acm.org/doi/abs/10.1145/3637528.3671968), [energy landscapes](https://openreview.net/forum?id=PxRATSTDlS), and [multiscale structures](https://arxiv.org/abs/2505.02450), [visual equation discovery](https://arxiv.org/abs/2505.11940), [network weight generation](https://arxiv.org/abs/2505.02450), and population evolution.
 
-📢 <span style="color: red;">I am actively seeking a <strong style="color: red;">2026 Fall Ph.D.</strong> opportunity. Contact me at <strong style="color: red;">lirk612@gmail.com</strong>.</span>
+Recently, my interests have been in applying generative AI for generalizable modeling in limited data scenarios.
+
+📢 <span style="color: red;">I am actively seeking a <strong style="color: red;">2026 Fall Ph.D.</strong> opportunity. (Contact me at <strong style="color: red;">lirk612@gmail.com</strong>.)</span>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
