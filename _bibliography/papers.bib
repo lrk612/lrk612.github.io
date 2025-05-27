@@ -9,6 +9,8 @@
   abbr={ICLR},
   selected={true},
   abstract={Energy landscapes play a crucial role in shaping dynamics of many real-world complex systems. System evolution is often modeled as particles moving on a landscape under the combined effect of energy-driven drift and noise-induced diffusion, where the energy governs the long-term motion of the particles. Estimating the energy landscape of a system has been a longstanding interdisciplinary challenge, hindered by the high operational costs or the difficulty of obtaining supervisory signals. Therefore, the question of how to infer the energy landscape in the absence of true energy values is critical. In this paper, we propose a physics-informed self-supervised learning method to learn the energy landscape from the evolution trajectories of the system. It first maps the system state from the observation space to a discrete landscape space by an adaptive codebook, and then explicitly integrates energy into the graph neural Fokker-Planck equation, enabling the joint learning of energy estimation and evolution prediction. Experimental results across interdisciplinary systems demonstrate that our estimated energy has a correlation coefficient above 0.9 with the ground truth, and evolution prediction accuracy exceeds the baseline by an average of 17.65\%.},
+  bibtex_show={true},
+  code={https://github.com/tsinghua-fib-lab/PESLA},
 }
 
 @article{li2025predicting2,
@@ -19,6 +21,8 @@
   abbr={KDD},
   selected={true},
   abstract={Predicting the dynamics of complex systems is crucial for various scientific and engineering applications. The accuracy of predictions depends on the model's ability to capture the intrinsic dynamics. While existing methods capture key dynamics by encoding a low-dimensional latent space, they overlook the inherent multiscale structure of complex systems, making it difficult to accurately predict complex spatiotemporal evolution. Therefore, we propose a Multiscale Diffusion Prediction Network (MDPNet) that leverages the multiscale structure of complex systems to discover the latent space of intrinsic dynamics. First, we encode multiscale features through a multiscale diffusion autoencoder to guide the diffusion model for reliable reconstruction. Then, we introduce an attention-based graph neural ordinary differential equation to model the co-evolution across different scales. Extensive evaluations on representative systems demonstrate that the proposed method achieves an average prediction error reduction of 53.23% compared to baselines, while also exhibiting superior robustness and generalization.},
+  bibtex_show={true},
+  code={https://github.com/tsinghua-fib-lab/MDPNet},
 }
 
 @article{li2024predicting,
@@ -29,6 +33,8 @@
   abbr={KDD},
   selected={true},
   abstract={Learning complex network dynamics is fundamental for understanding, modeling, and controlling real-world complex systems. Though great efforts have been made to predict the future states of nodes on networks, the capability of capturing long-term dynamics remains largely limited. This is because they overlook the fact that long-term dynamics in complex network are predominantly governed by their inherent low-dimensional manifolds, i.e., skeletons. Therefore, we propose the <u>D</u>ynamics-<u>I</u>nvariant <u>Sk</u>eleton Neural <u>Net</u>work (DiskNet), which identifies skeletons of complex networks based on the renormalization group structure in hyperbolic space to preserve both topological and dynamics properties. Specifically, we first condense complex networks with various dynamics into simple skeletons through physics-informed hyperbolic embeddings. Further, we design graph neural ordinary differential equations to capture the condensed dynamics on the skeletons. Finally, we recover the skeleton networks and dynamics to the original ones using a degree-based super-resolution module. Extensive experiments across three representative dynamics as well as five real-world and two synthetic networks demonstrate the superior performances of the proposed DiskNet, which outperforms the state-of-the-art baselines by an average of 10.18% in terms of long-term prediction accuracy.},
+  bibtex_show={true},
+  code={https://github.com/tsinghua-fib-lab/DiskNet},
 }
 
 @article{li2023learning,
@@ -39,6 +45,8 @@
   abbr={KDD},
   selected={true},
   abstract={Learning the underlying slow and fast dynamics of a system is instrumental for many practical applications related to the system. However, existing approaches are limited in discovering the appropriate time scale to separate the slow and fast variables and effectively learning their dynamics based on correct-dimensional representation vectors. In this paper, we introduce a framework that effectively learns slow and fast system dynamics in an integrated manner. We propose a novel intrinsic dimensionality (ID) driven learning method based on a time-lagged autoencoder framework to identify appropriate time scales to separate slow and fast variables and their IDs simultaneously. Further, we propose an integrated framework to concurrently learn the system's slow and fast dynamics, which is able to integrate prior knowledge of time scale and IDs and model the complex coupled slow and fast variables. Extensive experimental results on two representative dynamical systems show that our proposed framework is able to efficiently learn slow and fast system dynamics. Specifically, the long-time prediction performance is able to be improved by 36% on average compared with four representative baselines based on our proposed framework. Furthermore, our proposed system is able to extract interpretable slow and fast dynamics highly correlated with the known slow and fast variables in the dynamical systems.},
+  bibtex_show={true},
+  code={https://github.com/tsinghua-fib-lab/SlowFastSeparation},
 }
 
 @article{ding2024artificial,
@@ -48,4 +56,6 @@
   year={2024},
   abbr={Preprint},
   selected={false},
+  arxiv={https://arxiv.org/abs/2402.16887},
+  bibtex_show={true},
 }
