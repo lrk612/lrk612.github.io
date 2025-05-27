@@ -1,9 +1,14 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
 "Vision":
   color: "#009f36"
+
+"KDD23":
+  abbr: "KDD23"
+  url: https://www.kdd.org/kdd2023/index.html
+
+"KDD24":
+  abbr: "KDD24"
+  url: https://kdd2024.kdd.org/
+
+"ICLR":
+  abbr: "ICLR"
+  url: https://iclr.cc/Conferences/2025
