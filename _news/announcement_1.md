@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-12-14
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🏅 National Scholarship (Top 1%)
