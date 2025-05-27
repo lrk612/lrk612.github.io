@@ -32,7 +32,7 @@ I am a second-year master’s student in Electronic & Communication Engineering 
 
 Before that, I received my B.S. in Electronic Information Engineering *with honors* from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in June 2023.
 
-**Research:** My research focuses on **Scientific Machine Learning (SciML)**. I am dedicated to integrating physical knowledge into representation learning to understand complex physical phenomena, including [invariant variable representation](https://dl.acm.org/doi/abs/10.1145/3580305.3599858), [network dimensionality reduction](https://dl.acm.org/doi/abs/10.1145/3637528.3671968), [energy landscapes](https://openreview.net/forum?id=PxRATSTDlS), and [multiscale structures](https://arxiv.org/abs/2505.02450), [visual equation discovery](https://arxiv.org/abs/2505.11940), [network weight generation](https://arxiv.org/abs/2505.02450), and population evolution.
+**Research:** My research focuses on **Scientific Machine Learning (SciML)**. I am dedicated to integrating physical knowledge into representation learning to understand complex physical phenomena, including [timescale separation](https://dl.acm.org/doi/abs/10.1145/3580305.3599858), [network dimensionality reduction](https://dl.acm.org/doi/abs/10.1145/3637528.3671968), [energy landscapes](https://openreview.net/forum?id=PxRATSTDlS), and [multiscale structures](https://arxiv.org/abs/2505.02450), [visual equation discovery](https://arxiv.org/abs/2505.11940), [network weight generation](https://arxiv.org/abs/2505.02450), and population evolution.
 
 Recently, my interests have been in applying generative AI for generalizable modeling in limited data scenarios.
 
