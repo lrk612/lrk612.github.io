@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📝 Article on Multiscale Diffusion Autoencoder accepted at *KDD 2025* @Toronto
+📝 Article on Multiscale Diffusion Autoencoder accepted at **KDD 2025** @Toronto
