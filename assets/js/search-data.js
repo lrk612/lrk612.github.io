@@ -410,7 +410,7 @@ ninja.data = [{
           title: '🎤 KDD 2024 Offline Oral Presentation @Barcelona',
           description: "",
           section: "News",},{id: "news-article-on-energy-landscape-accepted-at-iclr-2025-singapore",
-          title: '📝 Article on Energy Landscape accepted at ICLR *2025 @Singapore',
+          title: '📝 Article on Energy Landscape accepted at ICLR 2025 @Singapore',
           description: "",
           section: "News",},{id: "news-article-on-multiscale-diffusion-autoencoder-accepted-at-kdd-2025-toronto",
           title: '📝 Article on Multiscale Diffusion Autoencoder accepted at KDD 2025 @Toronto',
