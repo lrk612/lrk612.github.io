@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: M.Eng. Student of <a href='#'>Tsinghua University</a>.
-subtitle: M.Eng. Student of Tsinghua University.
+subtitle: <a href='#'>2nd-year Master Student of Tsinghua University</a>.
 
 profile:
   align: right
