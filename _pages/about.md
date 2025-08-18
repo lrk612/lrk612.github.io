@@ -36,7 +36,7 @@ Before that, I received my B.S. in Electronic Information Engineering *with hono
 
 Recently, my interests have been in applying generative AI for generalizable modeling in limited data scenarios.
 
-📢 <span style="color: red;">I am actively seeking a <strong style="color: red;">2026 Fall Ph.D.</strong> opportunity. (Contact me at <strong style="color: red;">lirk612@gmail.com</strong>.)</span>
+<!-- 📢 <span style="color: red;">I am actively seeking a <strong style="color: red;">2026 Fall Ph.D.</strong> opportunity. (Contact me at <strong style="color: red;">lirk612@gmail.com</strong>.)</span> -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
