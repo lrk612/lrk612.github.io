@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: M.Eng. Student of <a href='#'>Tsinghua University</a>.
-subtitle: <a href='#'>2nd-Year Master Student</a>
+subtitle: <a href='#'>3rd-Year Master Student</a>
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year master’s student in Electronic & Communication Engineering (ECE) at Shenzhen International Graduate School, [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Qingmin Liao](https://dblp.org/pid/13/322) (also advised by Prof. [Yong Li](https://scholar.google.com/citations?user=kmgzPeQAAAAJ&hl=en&oi=ao) and Dr. [Huandong Wang](https://scholar.google.com/citations?user=PNbioq0AAAAJ&hl=en&oi=ao)).
+I am a third-year master’s student in Electronic & Communication Engineering (ECE) at Shenzhen International Graduate School, [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Qingmin Liao](https://dblp.org/pid/13/322) (also advised by Prof. [Yong Li](https://scholar.google.com/citations?user=kmgzPeQAAAAJ&hl=en&oi=ao) and Dr. [Huandong Wang](https://scholar.google.com/citations?user=PNbioq0AAAAJ&hl=en&oi=ao)).
 
 Before that, I received my B.S. in Electronic Information Engineering *with honors* from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in June 2023.
 
