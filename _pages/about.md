@@ -44,3 +44,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+
+<div class="text-center">
+  <a href="https://info.flagcounter.com/7sri"><img src="https://s01.flagcounter.com/map/7sri/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_3/flags_0/" alt="Flag Counter" border="0"></a>
+</div>
