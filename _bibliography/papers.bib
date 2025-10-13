@@ -1,6 +1,19 @@
 ---
 ---
 
+@article{zhou2025zero,
+  title={Zero-Shot Forecasting of Network Dynamics through Weight Flow Matching},
+  author={Zhou, Shihe and Li, Ruikun and Wang, Huandong and Li, Yong},
+  journal={arXiv preprint arXiv:2510.07957},
+  year={2025},
+  abbr={Preprint},
+  selected={false},
+  arxiv={2510.07957},
+  abstract={Forecasting state evolution of network systems, such as the spread of information on social networks, is significant for effective policy interventions and resource management. However, the underlying propagation dynamics constantly shift with new topics or events, which are modeled as changing coefficients of the underlying dynamics. Deep learning models struggle to adapt to these out-of-distribution shifts without extensive new data and retraining. To address this, we present Zero-Shot Forecasting of Network Dynamics through Weight Flow Matching (FNFM), a generative, coefficient-conditioned framework that generates dynamic model weights for an unseen target coefficient, enabling zero-shot forecasting. Our framework utilizes a Variational Encoder to summarize the forecaster weights trained in observed environments into compact latent tokens. A Conditional Flow Matching (CFM) module then learns a continuous transport from a simple Gaussian distribution to the empirical distribution of these weights, conditioned on the dynamical coefficients. This process is instantaneous at test time and requires no gradient-based optimization. Across varied dynamical coefficients, empirical results indicate that FNFM yields more reliable zero-shot accuracy than baseline methods, particularly under pronounced coefficient shift.},
+  bibtex_show={true},
+}
+
+
 @article{li2025weightflow,
   title={WeightFlow: Learning Stochastic Dynamics via Evolving Weight of Neural Network},
   author={Li, Ruikun and Liu, Jiazhen and Wang, Huandong and Liao, Qingmin and Li, Yong},
@@ -12,6 +25,20 @@
   abstract={Modeling stochastic dynamics from discrete observations is a key interdisciplinary challenge. Existing methods often fail to estimate the continuous evolution of probability densities from trajectories or face the curse of dimensionality. To address these limitations, we presents a novel paradigm: modeling dynamics directly in the weight space of a neural network by projecting the evolving probability distribution. We first theoretically establish the connection between dynamic optimal transport in measure space and an equivalent energy functional in weight space. Subsequently, we design WeightFlow, which constructs the neural network weights into a graph and learns its evolution via a graph controlled differential equation. Experiments on interdisciplinary datasets demonstrate that WeightFlow improves performance by an average of 43.02\% over state-of-the-art methods, providing an effective and scalable solution for modeling high-dimensional stochastic dynamics.},
   bibtex_show={true},
 }
+
+
+@article{hua2025finetuning,
+  title={Finetuning Large Language Model as an Effective Symbolic Regressor},
+  author={Hua, Yingfan and Li, Ruikun and Yao, Jun and Zhuang, Guohang and Tang, Shixiang and Liu, Bin and Ouyang, Wanli and Lu, Yan},
+  journal={arXiv preprint arXiv:2508.09897},
+  year={2025},
+  abbr={Preprint},
+  selected={false},
+  arxiv={2508.09897},
+  abstract={Deriving governing equations from observational data, known as Symbolic Regression (SR), is a cornerstone of scientific discovery. Large Language Models, (LLMs) have shown promise in this task by leveraging their vast cross-disciplinary scientific knowledge. However, existing LLM-based methods primarily rely on direct inference or prompt engineering, often requiring excessive inference iterations to converge on correct formulas or failing to treat complex equation targets. These limitations in effectiveness and generalization stem from an inherent tension between pre-trained LLMs' proficiency in approximate reasoning and the high-precision demands of SR tasks. To bridge this gap, we propose to fine-tune LLMs for enhanced SR capability. Yet, the absence of dedicated datasets for SR-oriented fine-tuning remains a critical barrier. We thus introduce SymbArena, specifically engineered to optimize LLMs for SR. This benchmark comprises over 148,000 diverse equations formulated as corpora of 1.83 billion tokens for LLM utilization, enabling effective training and inference. Further, to ensure a more comprehensive and fair evaluation, SymbArena proposes a heuristics metric to precisely quantify form-level consistency, going beyond existing SR numerical-oriented evaluation strategies. With this benchmark, we explore mainstream LLM fine-tuning techniques for SR tasks and establish Symbolic-R1, a simple yet effective LLM-based SR strong baseline. Experimental results validate Symbolic-R1 as the first LLM to exceed traditional numerical methods in both numerical precision and symbolic form accuracy, outperforming the second-best LLM baseline with improvements of 2-fold gains in R2 score and 10.3% in form-level consistency score.},
+  bibtex_show={true},
+}
+
 
 @article{li2025predicting3,
   title={Predicting Dynamical Systems across Environments via Diffusive Model Weight Generation},
