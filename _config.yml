@@ -175,7 +175,7 @@ exclude:
   - bin/
   - _pages/blog.md
   - _pages/books.md
-  # - _pages/cv.md
+  - _pages/cv.md
   - _pages/profiles.md
   - _pages/projects.md
   - _pages/repositories.md
@@ -634,8 +634,7 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    # json: assets/json/resume.json # it can also be an url
-    json: https://lrk612.github.io/assets/pdf/CV.pdf
+    json: assets/json/resume.json # it can also be an url
 
 jsonresume:
   - basics
