@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📝 Article on Model Weight Generation accepted at **WWW 2026** @DuBai
+📝 Article on Model Weight Generation accepted at **WWW 2026 (Oral)** @DuBai
