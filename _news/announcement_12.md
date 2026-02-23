@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-02-21
+date: 2026-01-13
 inline: true
 related_posts: false
 ---
 
-📝 Article on Visual Symbolic Regression accepted at **CVPR 2026** @America
+📝 Article on Model Weight Generation accepted at **WWW 2026** @DuBai
