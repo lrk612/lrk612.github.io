@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🌐 KDD 2023 Online **Oral Presentation** @Los Angeles
+📝 Article on Slow-Fast Dynamics at **KDD 2023 (Oral)** @Los Angeles

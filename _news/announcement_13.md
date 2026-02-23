@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📝 Article on Visual Symbolic Regression accepted at **CVPR 2026** @America
+📝 Article on Visual Symbolic Regression accepted at **CVPR 2026** @Denver

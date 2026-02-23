@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎤 KDD 2024 Offline **Oral Presentation** @Barcelona
+📝 Article on Network Renormalization Group at **KDD 2024 (Oral)** @Barcelona
