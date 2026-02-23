@@ -1,6 +1,18 @@
 ---
 ---
 
+@article{li2026pixel2phys,
+  title={Pixel2Phys: Distilling Governing Laws from Visual Dynamics},
+  author={Li, Ruikun and Lu, Yan and Tang, Shixiang and Qi, Biqing and Ouyang, Wanli},
+  journal={arXiv preprint arXiv:2505.11940},
+  year={2026},
+  abbr={CVPR},
+  selected={true},
+  arxiv={2505.11940},
+  abstract={Discovering physical laws directly from high-dimensional visual data is a long-standing human pursuit but remains a formidable challenge for machines, representing a fundamental goal of scientific intelligence. This task is inherently difficult because physical knowledge is low-dimensional and structured, whereas raw video observations are high-dimensional and redundant, with most pixels carrying little or no physical meaning. Extracting concise, physically relevant variables from such noisy data remains a key obstacle. To address this, we propose Pixel2Phys, a collaborative multi-agent framework adaptable to any Multimodal Large Language Model (MLLM). It emulates human scientific reasoning by employing a structured workflow to extract formalized physical knowledge through iterative hypothesis generation, validation, and refinement.By repeatedly formulating, and refining candidate equations on high-dimensional data, it identifies the most concise representations that best capture the underlying physical evolution. This automated exploration mimics the iterative workflow of human scientists, enabling AI to reveal interpretable governing equations directly from raw observations. Across diverse simulated and real-world physics videos, Pixel2Phys discovers accurate, interpretable governing equations and maintaining stable long-term extrapolation where baselines rapidly diverge.},
+  bibtex_show={true},
+}
+
 @article{zhou2025zero,
   title={Zero-Shot Forecasting of Network Dynamics through Weight Flow Matching},
   author={Zhou, Shihe and Li, Ruikun and Wang, Huandong and Li, Yong},
@@ -100,18 +112,6 @@
   abstract={Learning the underlying slow and fast dynamics of a system is instrumental for many practical applications related to the system. However, existing approaches are limited in discovering the appropriate time scale to separate the slow and fast variables and effectively learning their dynamics based on correct-dimensional representation vectors. In this paper, we introduce a framework that effectively learns slow and fast system dynamics in an integrated manner. We propose a novel intrinsic dimensionality (ID) driven learning method based on a time-lagged autoencoder framework to identify appropriate time scales to separate slow and fast variables and their IDs simultaneously. Further, we propose an integrated framework to concurrently learn the system's slow and fast dynamics, which is able to integrate prior knowledge of time scale and IDs and model the complex coupled slow and fast variables. Extensive experimental results on two representative dynamical systems show that our proposed framework is able to efficiently learn slow and fast system dynamics. Specifically, the long-time prediction performance is able to be improved by 36% on average compared with four representative baselines based on our proposed framework. Furthermore, our proposed system is able to extract interpretable slow and fast dynamics highly correlated with the known slow and fast variables in the dynamical systems.},
   bibtex_show={true},
   code={https://github.com/tsinghua-fib-lab/SlowFastSeparation},
-}
-
-@article{li2025mllm,
-  title={MLLM-based Discovery of Intrinsic Coordinates and Governing Equations from High-Dimensional Data},
-  author={Li, Ruikun and Lu, Yan and Tang, Shixiang and Qi, Biqing and Ouyang, Wanli},
-  journal={arXiv preprint arXiv:2505.11940},
-  year={2025},
-  abbr={Preprint},
-  selected={false},
-  arxiv={2505.11940},
-  abstract={Discovering governing equations from scientific data is crucial for understanding the evolution of systems, and is typically framed as a search problem within a candidate equation space. However, the high-dimensional nature of dynamical systems leads to an exponentially expanding equation space, making the search process extremely challenging. The visual perception and pre-trained scientific knowledge of multimodal large language models (MLLM) hold promise for providing effective navigation in high-dimensional equation spaces. In this paper, we propose a zero-shot method based on MLLM for automatically discovering physical coordinates and governing equations from high-dimensional data. Specifically, we design a series of enhanced visual prompts for MLLM to enhance its spatial perception. In addition, MLLM's domain knowledge is employed to navigate the search process within the equation space. Quantitative and qualitative evaluations on two representative types of systems demonstrate that the proposed method effectively discovers the physical coordinates and equations from both simulated and real experimental data, with long-term extrapolation accuracy improved by approximately 26.96% compared to the baseline.},
-  bibtex_show={true},
 }
 
 @article{liu2025beyond,
